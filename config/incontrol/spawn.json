@@ -1,0 +1,4 @@
+[
+    { "dimension" : "lostcities:lostcity" , "mob" : "minecraft:phantom"                , "seesky" : false , "result" : "deny" },
+	{                                       "mob" : "projectvibrantjourneys:starfish"                     , "result" : "deny" }
+]

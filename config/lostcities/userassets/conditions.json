@@ -1,0 +1,26 @@
+[
+    {
+        "type"  : "condition" ,
+        "name"   : "easymobs" ,
+        "values" : [
+            { "factor" : 1.0 , "value" : "minecraft:zombie"            },
+            { "factor" : 1.0 , "value" : "minecraft:skeleton"          },
+            { "factor" : 1.0 , "value" : "minecraft:spider"            },
+            { "factor" : 1.0 , "value" : "minecraft:creeper"           },
+            { "factor" : 0.8 , "value" : "minecraft:blaze"             },
+            { "factor" : 0.8 , "value" : "minecraft:witch"             },
+            { "factor" : 0.9 , "value" : "minecraft:silverfish"        },
+            { "factor" : 0.1 , "value" : "mutantbeasts:creeper_minion" },
+            { "factor" : 0.1 , "value" : "quark:forgotten"             }
+        ]
+    },
+    {
+        "type"   : "condition" ,
+        "name"   : "chestloot" ,
+        "values" : [
+            { "factor" : 200 , "value" : "lostcities:chests/raildungeonchest" , "inpart" : "rail_dungeon1" },
+            { "factor" : 200 , "value" : "lostcities:chests/raildungeonchest" , "inpart" : "rail_dungeon2" },
+            { "factor" : 1   , "value" : "lostcities:chests/universallostcitychest"                        }
+        ]
+    }
+]

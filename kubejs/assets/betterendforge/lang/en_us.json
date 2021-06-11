@@ -1,0 +1,19 @@
+{
+    "_": "Crystalite Armour (+ Eternal Crystal)",
+    "item.betterendforge.crystalite_boots": "§5Crystalite Boots§r",
+    "item.betterendforge.crystalite_leggings": "§5Crystalite Leggings§r",
+    "item.betterendforge.crystalite_chestplate": "§5Crystalite Chestplate§r",
+    "item.betterendforge.crystalite_helmet": "§5Crystalite Helmet§r",
+    "item.betterendforge.eternal_crystal": "§5Eternal Crystal§r",
+    "__": "Aeternium Equipment",
+    "item.betterendforge.aeternium_helmet": "§eAeternium Helmet§r",
+    "item.betterendforge.aeternium_chestplate": "§eAeternium Chestplate§r",
+    "item.betterendforge.aeternium_leggings": "§eAeternium Leggings§r",
+    "item.betterendforge.aeternium_boots": "§eAeternium Boots§r",
+    "item.betterendforge.aeternium_shovel": "§eAeternium Shovel§r",
+    "item.betterendforge.aeternium_sword": "§eAeternium Sword§r",
+    "item.betterendforge.aeternium_pickaxe": "§eAeternium Pickaxe§r",
+    "item.betterendforge.aeternium_axe": "§eAeternium Axe§r",
+    "item.betterendforge.aeternium_hoe": "§eAeternium Hoe§r",
+    "item.betterendforge.aeternium_hammer": "§eAeternium Smith Hammer§r"
+}

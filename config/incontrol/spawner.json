@@ -1,0 +1,7 @@
+[
+    { "mob" : "minecraft:phantom"              , "persecond" : 0.5  , "attempts" : 20 , "amount" : { "minimum" : 4 , "maximum" : 8 } , "conditions" : { "dimension" : "lostcities:lostcity" , "maxthis" : 200 }, "inair" : true },
+    { "mob" : "mutantbeasts:mutant_creeper"    , "persecond" : 0.01 , "attempts" : 5                                                 , "conditions" : { "dimension" : "lostcities:lostcity" , "maxthis" : 9   }                 },
+    { "mob" : "mutantbeasts:mutant_enderman"   , "persecond" : 0.01 , "attempts" : 5                                                 , "conditions" : { "dimension" : "lostcities:lostcity" , "maxthis" : 6   }                 },
+    { "mob" : "mutantbeasts:mutant_skeleton"   , "persecond" : 0.01 , "attempts" : 5                                                 , "conditions" : { "dimension" : "lostcities:lostcity" , "maxthis" : 9   }                 },
+    { "mob" : "mutantbeasts:mutant_zombie"     , "persecond" : 0.01 , "attempts" : 5                                                 , "conditions" : { "dimension" : "lostcities:lostcity" , "maxthis" : 6   }                 }
+]

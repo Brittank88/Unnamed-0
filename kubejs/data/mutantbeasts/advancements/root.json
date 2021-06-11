@@ -1,0 +1,29 @@
+{
+	"display": {
+		"icon": {
+			"item": "mutantbeasts:chemical_x"
+		},
+		"title": {
+			"translate": "itemGroup.mutantbeasts"
+		},
+		"description": {
+			"translate": ""
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": {
+		"0": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"0"
+		]
+	]
+}

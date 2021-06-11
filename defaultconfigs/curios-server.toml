@@ -1,0 +1,28 @@
+#List of curio slot type settings
+
+[[curiosSettings]]
+  override   = true
+  identifier = "charm"
+  size       = 0
+
+[[curiosSettings]]
+  identifier = "totem"
+  priority   = 1
+  
+[[curiosSettings]]
+  identifier = "elytra"
+  priority   = 2
+  
+[[curiosSettings]]
+  identifier = "oddities_backpack"
+  priority   = 3
+  
+[[curiosSettings]]
+  identifier = "back"
+  priority   = 4
+  size       = 2
+
+[[curiosSettings]]
+  identifier = "potion_charm"
+  priority   = 5
+  size       = 2

@@ -1,0 +1,44 @@
+{
+    "pools": [
+        {
+            "rolls"   : 3,
+            "entries" : [
+                { "type" : "loot_table" , "name" : "minecraft:empty"                                                                                                   , "weight" : 15 },
+                { "type" : "item"       , "name" : "betterendforge:aeternium_ingot"  , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1  } }] , "weight" : 1  },
+                { "type" : "item"       , "name" : "byg:pendorite_scraps"            , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 4  } }] , "weight" : 2  },
+                { "type" : "item"       , "name" : "byg:ametrine_gems"               , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 4  } }] , "weight" : 2  },
+                { "type" : "item"       , "name" : "losttrinkets:treasure_bag"       , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 12 } }] , "weight" : 35 },
+                { "type" : "item"       , "name" : "minecraft:emerald_block"         , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 8  } }] , "weight" : 5  },
+                { "type" : "item"       , "name" : "minecraft:diamond_block"         , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 8  } }] , "weight" : 15 },
+                { "type" : "item"       , "name" : "minecraft:gold_block"            , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 10 } }] , "weight" : 20 },
+                { "type" : "item"       , "name" : "minecraft:iron_block"            , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 16 } }] , "weight" : 25 },
+                { "type" : "item"       , "name" : "betterendforge:thallasium_ingot" , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 8  } }] , "weight" : 5  },
+                { "type" : "item"       , "name" : "betterendforge:terminite_ingot"  , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 4  } }] , "weight" : 5  }
+            ]
+        },
+        {
+            "rolls"   : 2,
+            "entries" : [
+                { "type" : "loot_table" , "name" : "minecraft:empty"                                                                                                       , "weight" : 26 },
+                { "type" : "item"       , "name" : "betterendforge:thallasium_helmet"     , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 5  },
+                { "type" : "item"       , "name" : "betterendforge:thallasium_chestplate" , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 5  },
+                { "type" : "item"       , "name" : "betterendforge:thallasium_leggings"   , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 5  },
+                { "type" : "item"       , "name" : "betterendforge:thallasium_boots"      , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 5  },
+                { "type" : "item"       , "name" : "betterendforge:terminite_helmet"      , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 1  },
+                { "type" : "item"       , "name" : "betterendforge:terminite_chestplate"  , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 1  },
+                { "type" : "item"       , "name" : "betterendforge:terminite_leggings"    , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 1  },
+                { "type" : "item"       , "name" : "betterendforge:terminite_boots"       , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 1  }
+            ]
+        },
+        {
+            "rolls"   : 1,
+            "entries" : [
+                { "type" : "loot_table" , "name" : "minecraft:empty"                                                                                                        , "weight" : 9798 },
+                { "type" : "item"       , "name" : "betterendforge:terminite_sword_handle" , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 100  },
+                { "type" : "item"       , "name" : "betterendforge:terminite_sword_blade"  , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 100  },
+                { "type" : "item"       , "name" : "betterendforge:aeternium_sword_handle" , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 1    },
+                { "type" : "item"       , "name" : "betterendforge:aeternium_sword_blade"  , "functions": [{ "function": "set_count", "count": { "min" : 0 , "max" : 1 } }] , "weight" : 1    }
+            ]
+        }
+    ]
+}

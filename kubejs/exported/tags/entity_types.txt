@@ -1,0 +1,45 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 14, 2021 3:44:16 PM
+
+#minecraft:zombies
+- undead:thefungus
+- undead:theflamingfungus
+- undead:spitter
+- undead:zombiecow
+- undead:thebomber
+- undead:thefungus
+- undead:theflamingfungus
+- undead:spitter
+- undead:zombiecow
+- undead:thebomber
+
+#waila:blacklist
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow

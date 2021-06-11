@@ -1,0 +1,16 @@
+{
+    "_": "Pendorite Equipment",
+    "item.byg.pendorite_axe": "§dPendorite Axe§r",
+    "item.byg.pendorite_battleaxe": "§dPendorite Battleaxe§r",
+    "item.byg.pendorite_hoe": "§dPendorite Hoe§r",
+    "item.byg.pendorite_pickaxe": "§dPendorite Pickaxe§r",
+    "item.byg.pendorite_shovel": "§dPendorite Shovel§r",
+    "item.byg.pendorite_sword": "§dPendorite Sword§r",
+    "item.byg.pendorite_horse_armor": "§dPendorite Horse Armor§r",
+    "__": "Ametrine Equipment",
+    "item.byg.ametrine_boots": "§eAmetrine Boots§r",
+    "item.byg.ametrine_leggings": "§eAmetrine Leggings§r",
+    "item.byg.ametrine_chestplate": "§eAmetrine Chestplate§r",
+    "item.byg.ametrine_helmet": "§eAmetrine Helmet§r",
+    "item.byg.ametrine_horse_armor": "§eAmetrine Horse Armor§r"
+}
