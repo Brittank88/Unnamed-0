@@ -19,3 +19,4 @@ reauth.toml
 usercache.json
 usernamecache.json
 WailaErrorOutput.txt
+hs_err_pid*.log
