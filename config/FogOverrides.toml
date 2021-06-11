@@ -22,7 +22,7 @@
 	"Enable Void Fog" = true
 	#This is so you can adjust the density of the fog
 	#Range: 0.001 ~ 0.5
-	"Void Fog Density" = 0.3
+	"Void Fog Density" = 0.003
 	#At what Y-level should the fog active on
 	#Range: 0 ~ 255
 	"Y-Level Activation" = 16

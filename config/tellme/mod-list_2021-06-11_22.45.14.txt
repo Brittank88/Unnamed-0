@@ -1,0 +1,187 @@
+-----------------------------
+Mod ID, Mod name, Mod version
+-----------------------------
+abnormals_core, Abnormals Core, 3.1.1
+adlods, Large Ore Deposits, 4.1.5.1
+advancedcompass, Advanced Compass, 1.1.2
+aiimprovements, AI-Improvements, 0.3.0
+apotheosis, Apotheosis, 4.6.1
+appleskin, AppleSkin, 1.0.14
+architectury, Architectury, 1.17.20
+armorpointspp, ArmorPoints++, 1.16.5-2.0.0
+attributefix, AttributeFix, 10.1.2
+autoreglib, AutoRegLib, 1.6-49
+babel, Babel, 1.0.5
+backtools, Back Tools, 10.1.0
+bedspreads, Bedspreads, 1.16.5-5.1.0.2
+better_diving, Better Diving, 1.2.5
+betteradvancements, Better Advancements, 0.1.0.105
+bettercaves, YUNG's Better Caves, 1.16.4-1.1.2
+betterendforge, BetterEnd Forge, 1.16.4-1.6.0
+bettermineshafts, YUNG's Better Mineshafts, 1.16.4-2.0.4
+biomesoplenty, Biomes O' Plenty, 1.16.5-13.1.0.471
+bookshelf, Bookshelf, 10.1.11
+borderless, Borderless Window, 1.16.4-1.1.0
+brazier, Brazier, 3.0.8
+bwncr, Bad Wither No Cookie Reloaded, 1.16.4-3.9.16
+byg, Oh The Biomes You'll Go, 1.2.9
+caelus, Caelus API, 1.16.5-2.1.3.0
+catalogue, Catalogue, 1.2.1
+champions, Champions, 1.16.5-2.0.1.7
+chat_heads, Chat Heads, 0.2.0
+cherishedworlds, Cherished Worlds, 1.16.4-5.1.0.0
+chipped, Chipped, 1.0.6.1
+chunkanimator, Chunk Animator, 1.16.5-1.2.4
+chunky, Chunky, 1.2.73
+clienttweaks, Client Tweaks, 5.3.0
+cloth-config, Cloth Config v4 API, 4.11.26
+clumps, Clumps, 6.0.0.24
+collective, Collective, 2.26
+colossalchests, ColossalChests, 1.7.13
+controlling, Controlling, 7.0.0.22
+craftingtweaks, Crafting Tweaks, 12.2.1
+create, Create, mc1.16.5_v0.3.1c+151
+ctm, ConnectedTexturesMod, MC1.16.1-1.1.2.6
+curioofundying, Curio of Undying, 1.16.5-5.2.0.0
+curios, Curios API, 1.16.5-4.0.5.2
+curiosquarkobp, Curios Quark Oddities Backpack, 1.0.2
+curiouselytra, Curious Elytra, 1.16.5-4.0.2.3
+curiousshulkerboxes, Curious Shulker Boxes, 1.16.5-4.0.1.0
+cyclopscore, Cyclops Core, 1.11.7
+decorative_blocks, Decorative Blocks, 1.7.2
+decorative_blocks_abnormals, Decorative Blocks Abnormals, 1.2
+dogslie, Let Sleeping Dogs Lie, 1.1.1
+dsurround, §3Dynamic Surroundings, 1.16.4-4.0.4.2
+dummmmmmy, MmmMmmMmmMmm, 1.2.0
+dungeoncrawl, Dungeon Crawl, 2.2.4
+easyelytratakeoff, Easy Elytra Takeoff, 1.7
+emojiful, Emojiful, 1.16.4-2.1.4
+enchdesc, EnchantmentDescriptions, 7.0.8
+endergetic, The Endergetic Expansion, 3.0.0
+endrem, End Remastered 3.6, 1.16.3
+enhancedcelestials, Enhanced Celestials, 1.0.4-1.16.4
+environs, §3Dynamic Surroundings: §eEnvirons, 1.16.4-4.0.4.2
+extcaves, Extended Caves, 2.4
+extremesoundmuffler, Extreme Sound Muffler, 3_forge-1.16.5
+fallingleaves, Falling Leaves, 1.0.2
+farmersreplant, Farmers Replant, 1.16.5-1.0
+farmingforblockheads, Farming for Blockheads, 7.3.1
+fastbenchminusreplacement, FastWorkbench Minus Replacement, 1.4
+fastfurnaceminusreplacement, Fast Furnace Minus Replacement, 1.1-1.16.3
+fastleafdecay, FastLeafDecay, v25
+featherblock, Feather Block, 1.0
+ferritecore, Ferrite Core, 2.0.4
+fixedanvilrepaircost, Fixed Anvil Repair Cost, 1.4
+fogoverrides, Fog Overrides, 1.16.5-1.1.0
+forge, Forge, 36.1.31
+forgeendertech, Forge Endertech, 7.1.0.0
+forgivingvoid, Forgiving Void, 5.2.1
+friendlyfire, FriendlyFire, 7.0.2
+frostwalkerlightfix, Frost Walker Light Fix, 1.1.0
+ftbbackups, FTB Backups, 2.1.1.6
+ftbchunks, FTB Chunks, 1605.3.0-build.87
+ftblibrary, FTB Library, 1605.3.0-build.67
+ftbteams, FTB Teams, 1605.2.0-build.56
+ftbultimine, FTB Ultimine, 1605.2.2-build.4
+gravestone, Gravestone Mod, 1.16.5-1.0.6
+guiclock, GUI Clock, 2.3
+guicompass, GUI Compass, 1.5
+hardcorerevival, Hardcore Revival, 6.0.1
+hats, Hats, 10.3.1
+healingcampfire, Healing Campfire, 3.2
+ichunutil, iChunUtil, 10.4.1
+immersive_portals, Immersive Portals, 0.14
+incontrol, InControl, 1.16-5.1.8
+invtweaks, Inventory Tweaks Renewed, 1.16.4-1.0.1
+ironchest, Iron Chests, 1.16.4-11.2.10
+ironfurnaces, Iron Furnaces, 2.6.8
+itemzoom, Item Zoom, 2.3.0
+itlt, It's The Little Things, 2.0.0
+jea, Just Enough Advancements, 1.16.5-1.0.0
+jei, Just Enough Items, 7.7.0.106
+jeiintegration, JEI Integration, 7.0.1.15
+jepb, Just Enough Piglin Bartering, 1.0.0
+jeresources, Just Enough Resources, 0.12.0.109
+justenoughbeacons, Just Enough Beacons, 3.1-1.16.3
+justenoughprofessions, Just Enough Professions (JEP), 1.2.1
+justmobheads, Just Mob Heads, 4.0
+justplayerheads, Just Player Heads, 1.6
+kleeslabs, KleeSlabs, 9.2.1
+konkrete, Konkrete, 1.1.6
+kubejs, KubeJS, 1605.3.10-build.23
+kubejs_create, KubeJS Create, 1604.1.0.4
+lazydfu, LazyDFU, 0.1.3
+libx, LibX, 1.16.3-1.0.76
+lightoverlay, Light Overlay, 5.8.0
+lollipop, Lollipop, 3.2.9
+lostcities, LostCities, 1.16-4.0.9-beta
+losttrinkets, Lost Trinkets, 0.1.27
+minecraft, Minecraft, 1.16.5
+mobeffects, §3Dynamic Surroundings: §eMob Effects, 1.16.4-4.0.4.2
+modernui, Modern UI, 2.5.1.86
+modernworldcreation, ModernWorldCreation, 1.0.0
+mojangdark, MojangDark, 1.0.2
+morpheus, Morpheus, 4.2.70
+mousetweaks, Mouse Tweaks, 2.14
+mutantbeasts, Mutant Beasts, 1.16.4-1.1.3
+nature_expansion, Nature Expansion, 1.0.0
+naturescompass, Nature's Compass, 1.16.5-1.9.0
+netherportalfix, NetherPortalFix, 7.2.1
+nohostilesaroundcampfire, No Hostiles Around Campfire, 3.3
+notenoughcrashes, Not Enough Crashes, 3.2.0
+notenoughcreativity, Not Enough Creativity, 1.2.4_01
+nourished_nether, Nourished Nether, 1.0.7
+outer_end, The Outer End, 0.2.9
+pamhc2crops, Pam's HarvestCraft 2 Crops, version
+pamhc2foodcore, Pam's HarvestCraft 2 Food Core, version
+pamhc2foodextended, Pam's HarvestCraft 2 Food Extended, version
+pamhc2trees, Pam's HarvestCraft 2 Fruit Trees, 1.0.1
+petrevive, Ultimate Pet Revival Mod, 2.0
+placebo, Placebo, 4.5.0
+polymorph, Polymorph, 1.16.5-0.24
+presencefootsteps, Presence Footsteps, r29-1.16.4
+projectvibrantjourneys, Project: Vibrant Journeys, 1.16.5-3.1.0BETA
+quark, Quark, r2.4-312
+quarkoddities, Quark Oddities, 1.16.3
+quarkoplenty, Quark O' Plenty, 1.2.1
+randompatches, RandomPatches, 2.4.4-forge
+reauth, ReAuth, 3.9.3
+repurposed_structures, Repurposed Structures, 1.16.5-2.7.5-forge
+rhino, Rhino, 1605.1.1-build.10
+screenshotclipboard, Screenshot to Clipboard, 1.15.1-1.0.5
+sdrp, Simple Discord Rich Presence, 1.16.4-1.3.5
+sf, Spawner Fix, 1.0.0.2
+smoothboot, Smooth Boot, 1.16.4-1.2.2
+sndctrl, §3Dynamic Surroundings: §eSound Control, 1.16.4-4.0.4.2
+sophisticatedbackpacks, Sophisticated Backpacks, property(class java.lang.String, provider(?))
+sounddeviceoptions, Sound Device Options, 1.4.2
+soundfilters, Sound Filters, 0.14_for_1.16.2
+spiderstpo, Spiders 2.0, 1.0.4
+stepup, StepUp, 1.16.4-0.2.0
+stoneholm, Stoneholm, 1.2
+subwild, Subterranean Wilderness, 1.2.1
+supplementaries, Supplementaries, 1.16.5-0.13.0
+swingthroughgrass, SwingThroughGrass, 1.16.4-1.5.3
+tellme, TellMe, 0.9.1
+terraforged, TerraForged, 0.2.10
+tips, Tips, 4.0.7
+toastcontrol, Toast Control, 4.3.1
+trashslot, TrashSlot, 12.2.1
+traverse, Traverse: Reforged, 1.16.4-0.4.3.8
+twoplayersonehorse, 2 players 1 horse, 1.16.4-2.0.2
+unlitcampfire, Unlit Campfire, 1.3.0-1.16.1+
+upstream, Upstream, 1.0
+valhelsia_core, Valhelsia Core, 16.0.9
+valhelsia_structures, Valhelsia Structures, 1.16.5-0.1.2
+voicechat, Simple Voice Chat, 1.16.5-1.3.9
+waila, waila, 2.10.2
+wailaharvestability, Waila Harvestability, 1.1.15
+walljump, Wall-Jump!, 1.16.4-1.3.7
+wawla, WAWLA, 8.0.1
+waystones, Waystones, 7.6.2
+wstweaks, Wither Skeleton Tweaks, 5.3.0
+wthit, wthit, 2.10.2
+yungsapi, YUNG's API, 1.16.4-Forge-6
+-----------------------------
+Mod ID, Mod name, Mod version
+-----------------------------
