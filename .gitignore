@@ -10,6 +10,7 @@ schematics/
 screenshots/
 local/ftbchunks/data/
 
+resourcepacks/Quark*Programmer*Art.zip
 local/ftbutilities/backups.json
 config.json
 reauth.toml
