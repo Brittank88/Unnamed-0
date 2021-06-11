@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: May 14, 2021 3:44:16 PM
+To refresh this file, delete it and run /reload command again! Last updated: Jun 11, 2021 1:26:05 PM
 
 #minecraft:lava
 - minecraft:lava
@@ -25,6 +25,10 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 #forge:tea
 - create:flowing_tea
 - create:tea
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
 
 #forge:honey
 - create:flowing_honey

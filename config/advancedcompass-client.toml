@@ -38,14 +38,14 @@
 	coordinatesMode = "OFF"
 	#Coordinates font scale
 	#Range: 50 ~ 200
-	coordinatesScale = 100
+	coordinatesScale = 75
 	#Compass width
 	#Range: 100 ~ 9999
-	compassWidth = 412
+	compassWidth = 300
 	#Compass height
 	#Range: 8 ~ 50
-	compassHeight = 22
+	compassHeight = 15
 	#Icon scale
 	#Range: 50 ~ 200
-	iconScale = 100
+	iconScale = 75
 
