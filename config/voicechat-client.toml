@@ -35,4 +35,7 @@ stereo = true
 hide_icons = false
 #If the group HUD should be visible
 show_group_hud = true
+#The location of the HUD icons
+#Allowed Values: LEFT, RIGHT, CENTER
+hud_icon_location = "LEFT"
 

@@ -44,7 +44,7 @@
 		[Settings."Mob Settings"."Mob Toggles"]
 			"Enable Flies" = true
 			"Enable Fireflies" = true
-			"Enable Starfish" = true
+			"Enable Starfish" = false
 			"Enable Clams" = true
 			"Enable Snails" = true
 			"Enable Slugs" = true
