@@ -48,4 +48,7 @@
 	#Icon scale
 	#Range: 50 ~ 200
 	iconScale = 75
+	#Auto icon generation type
+	#Allowed Values: HEAD_FIRST, FULL_BODY, OFF
+	generationType = "HEAD_FIRST"
 

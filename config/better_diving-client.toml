@@ -20,4 +20,6 @@ seamothGuiOffsetX = -4
 #No comment
 #Range: -1000 ~ 1000
 seamothGuiOffsetY = -8
+#No comment
+skipSkyRendering = true
 
