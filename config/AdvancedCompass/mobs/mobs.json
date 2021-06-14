@@ -39,17 +39,6 @@
 
     "entity.hats.hat"                                           : false ,
 
-    "entity.immersive_portals.border_portal"                    : false ,
-    "entity.immersive_portals.breakable_mirror"                 : false ,
-    "entity.immersive_portals.end_floor_portal"                 : false ,
-    "entity.immersive_portals.end_portal"                       : false ,
-    "entity.immersive_portals.general_breakable_portal"         : false ,
-    "entity.immersive_portals.global_tracked_portal"            : false ,
-    "entity.immersive_portals.loading_indicator"                : false ,
-    "entity.immersive_portals.mirror"                           : false ,
-    "entity.immersive_portals.nether_portal_new"                : false ,
-    "entity.immersive_portals.portal"                           : false ,
-
     "entity.losttrinkets.dark_vex"                              : true  ,
 
     "entity.minecraft.area_effect_cloud"                        : false ,

@@ -138,14 +138,14 @@ key_key.itemzoom.zoom.out:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_key.curiousshulkerboxes.open.desc:key.keyboard.x
-key_key.waila.config:key.keyboard.keypad.0
 key_hats.key.hatsMenu:key.keyboard.h
+key_Descend:key.keyboard.c
+key_key.curios.open.desc:key.keyboard.g
+key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
-key_Descend:key.keyboard.c
-key_key.curios.open.desc:key.keyboard.g
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.invtweaks_sort_player.desc:key.keyboard.backslash
@@ -159,7 +159,9 @@ key_key.toastcontrol.clear:key.keyboard.j
 key_key.advancedcompass.openconfig:key.keyboard.p
 key_key.advancedcompass.newwaypoint:key.keyboard.n
 key_key.advancedcompass.openwaypointlist:key.keyboard.l:CONTROL
-key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.sort_container:key.keyboard.unknown
+key_Open sound muffler screen:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.y
@@ -167,8 +169,11 @@ key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
-key_Open sound muffler screen:key.keyboard.unknown
-key_quark.keybind.change_hotbar:key.keyboard.unknown:SHIFT
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
+key_key.endergetic.booflo_vest:key.keyboard.space
+key_key.endergetic.booflo_slam:key.keyboard.x
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -187,16 +192,11 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_key.endergetic.booflo_vest:key.keyboard.space
-key_key.endergetic.booflo_slam:key.keyboard.x
 key_quark.keybind.autorun:key.keyboard.caps.lock
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
-key_quark.keybind.camera_mode:key.keyboard.f12
-key_quark.keybind.sort_player:key.keyboard.unknown
-key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.change_hotbar:key.keyboard.unknown:SHIFT
+key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.back:key.mouse.4
+key_quark.keybind.camera_mode:key.keyboard.f12
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
