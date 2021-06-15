@@ -1,5 +1,5 @@
-#Tue Jun 15 13:20:56 AEST 2021
-shaderPack=OFF
+#Tue Jun 15 13:45:32 AEST 2021
+shaderPack=ComplementaryShaders_v4.0.2.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
