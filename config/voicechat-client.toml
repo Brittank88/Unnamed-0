@@ -38,4 +38,7 @@ show_group_hud = true
 #The location of the HUD icons
 #Allowed Values: LEFT, RIGHT, CENTER
 hud_icon_location = "LEFT"
+#The orientation of the player icons in the group HUD
+#Allowed Values: VERTICAL, HORIZONTAL
+group_player_icon_orientation = "VERTICAL"
 
