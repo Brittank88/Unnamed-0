@@ -6,7 +6,6 @@
                 { "type" : "loot_table" , "name" : "minecraft:empty"                                , "weight" : 67 },
                 { "type" : "loot_table" , "name" : "minecraft:chests/buried_treasure"               , "weight" : 1  },
                 { "type" : "loot_table" , "name" : "minecraft:chests/desert_pyramid"                , "weight" : 1  },
-                { "type" : "loot_table" , "name" : "minecraft:chests/end_city_treasure"             , "weight" : 1  },
                 { "type" : "loot_table" , "name" : "minecraft:chests/igloo_chest"                   , "weight" : 1  },
                 { "type" : "loot_table" , "name" : "minecraft:chests/jungle_temple"                 , "weight" : 1  },
                 { "type" : "loot_table" , "name" : "minecraft:chests/jungle_temple_dispenser"       , "weight" : 1  },

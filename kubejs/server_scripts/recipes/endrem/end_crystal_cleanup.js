@@ -13,7 +13,7 @@ onEvent('recipes', event => {
         'endrem:end_crystal_boots'       ,
         'endrem:end_crystal_horse_armor'    // Horse Armour
     ].forEach(item => {
-        event.remove({ input  : item });
-        event.remove({ output : item });
+        event.remove({ input  : Item.of(item).ignoreNBT() });
+        event.remove({ output : Item.of(item).ignoreNBT() });
     });
 });

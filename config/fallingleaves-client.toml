@@ -15,4 +15,8 @@ dropFromPlayerPlacedBlocks = true
 #how much room below the leaves block is needed for the leaves to spawn
 #Range: 1 ~ 20
 minimumFreeSpaceBelow = 1
+#disable wind effects
+disableWind = false
+#windless dimensions
+windlessDimension = ["minecraft:the_nether", "minecraft:the_end"]
 

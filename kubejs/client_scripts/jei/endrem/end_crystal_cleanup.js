@@ -12,5 +12,5 @@ onEvent('jei.hide.items', event => {
         'endrem:end_crystal_leggings'    ,
         'endrem:end_crystal_boots'       ,
         'endrem:end_crystal_horse_armor'    // Horse Armour
-    ].forEach(item => event.hide(item))
+    ].forEach(item => event.hide(Item.of(item).ignoreNBT()))
 });
